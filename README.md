@@ -1,1 +1,61 @@
 # INTRO-TO-INFORMATION-TECH-ASS1-
+PERSONAL INFROMATION
+
+My name is Dhiraj Swain, and I am from New Delhi, India. I am and Indian and I speak 2 languages which are Hindi and English.  I am currently enrolled in bachelor’s in information technology at Royal Melbourne Institute of Technology. My student no is S3954429 and my student email address is s3954429@studnet.emit.edu.au . I completed my higher secondary studies in 2021 and graduated with a percentage of 94.80%. I love adventures and if someone asks me for an excursion or any type of activity which sounds good to me, I will be the first to raise my hand. Also, I love playing Cricket.
+
+INTEREST IN IT
+
+My interest in IT started from a workshop which I attended when in was in class eighth. The workshop name was THE MODERN-DAY WORLD.  It was a workshop about computer science, coding, gaming , different programming languages, machine learning etc. There one of my teachers explained me about the IT sector and I kind of got more curious to know about this more. Personally, at that time I got more interested in gaming and software development. After that in my higher secondary I started to learn programming languages like python and c++ and now I have a basic knowledge of both the languages.
+My main interest is in software development. It has a great scope and it is very interesting. Developing software’s on your own is such a new and innovative task. Really looking forward to this.
+
+I chose RMIT because of the course structure and it is one of the finest universities in Australia for Information Technology. It also has a great course structure as well as it offers many internship opportunities. I found the university perfect for me.
+
+I expect during my course I will get a deep and good knowledge about the course and more about how to tackle real life tech problems and also will be able to perform various other skills when given an opportunity.
+
+IDEAL JOB
+
+https://www.seek.com.au/job/58012226?tracking=TMC-SAU-eDM-SharedJob-13246
+
+
+
+My ideal job is of a Software Engineer which is a dream job for me since I attended that workshop in class eighth. It is a job which is a well-known job in the market. Also, it is a job which requires a great skillset and it’s not an easy thing to do. Also, there is a job security in this position in a company. Becoming a good software developer is so fascinating. You can do many different things like this will make you a good leader like if you become a senior software developer in a company which will also enhance your leadership skills, communications skills and will also help you learn more and more.
+
+You need various skills to become a software engineer. You should be able to make your own software. You need good problem solving and analytical skills. You also must be good at managing group projects and many other multi-tasks. Sometimes you will have people in your group who will have different ideas whom you won’t agree that, but you have to accept that. You also need to have a good experience at many programming languages like python, java script, C++, SQL, PHP etc. Many software developers don’t have a good hold to all languages but if you want your work to be easier and smoother you should have experience in every language. It is not necessary to have a degree in software, if you have the skills and you can complete your projects and software’s smoothly you can easily get a job in this sector. Developing skills is more important rather than focusing on getting a degree.
+
+I am a very patient person which is my best trait. I have great communication skills and I very enthusiastically participate in group projects which helps me learn more through it and gives me new ideas. Also, I have basic knowledge of coding languages like python, C++.
+In the last two years I have a great hold of python language as I started to learn it by myself and now have a decent idea of that language.
+
+In the next few years, I will improve and enhance my skills which I lack and need. I will also participate in many different group projects so that my communication and multi-tasking skills get more fluent with time. Also, I will practice more and more so that my coding skills get better. Also doing many internships will make my resume look much more awesome.
+
+PERSONAL PROFILE
+
+The results of these tests state about my behavior, instinct, my qualities and various other things. Also, these tests tell me how I can be more confident and improve in various things. These tests just made me help me know myself more which is very useful for me as it will make me work on myself.
+
+I do not really think that these results will affect my behavior in my team as I am a good listener and will listen to every person patiently and will work according to it after listening to everyone’s ideas because you will to work as a team not as an individual as it will not be good for the project.
+
+I will make sure that I will do anything for my team even if it is a difficult code or ay presentation. While forming a team I want people who are willing to do their best in a project and not give up. Also, they should always try to bring more ideas and make the project more brilliant. Also, I am person who is a bit strict with deadlines so I want that they should also consider it.
+PROJECT IDEA
+
+The project I want to discuss here is of an online mass voting system for a country which already is being developed by many developers or have been developed but are in trials.
+But I want to make an app which will be easily accessible and will not be difficult for people for use. The app which I want to develop must reach every country, every state, every suburb and to every person who is eligible to vote.
+
+MOTIVATION
+
+During the time of elections there are many people who do not vote due to many reasons like someone has a job to do or someone is sick and can go to the polling booth etc. Due to these things the election results suffer. Let’s talk about an example, I come from India where there is a large eligible population to vote but only 50 to 60 percent of them go to the booth to vote which affects the electoral system. If people don’t even vote there is no use of right to vote and then there is no use of elections also. So, if there is an app in which where you can vote by sitting in your office or college or if you are sick and you are in hospital you can still vote. By this people can easily use their right to vote and help the nation.
+
+DESCRIPTION
+
+ We will first start with working with the election commission of any country so that we don’t face any criminal charges. The whole app will work under the electoral system of the country as they will oversee the app, and we will be the employees working on the smoothness and security of the app. We will be in a legal contract with the government and will make sure that there are no problems in the software or any other thing in the app as that will make a big issue during the time of elections. So, let’s begin with the features and services the app will provide. So, when you open the app, it will first ask your details like your first name, family name, mobile number and if you have an email id you can provide that coz many people don’t have mails. After that it will ask you to register with your voter id and will ask for a pin number so that your details are safe. Suppose there are 4 family members in a family so you all can register by providing a single mobile number which is very useful as sometimes some members of the family don’t use mobile phones. But it will ask the second person for their fingerprint which will done the fingerprint scanner of the app so that only that person can access his account. Also, during the time of registering the vote it will again ask for your fingerprint and re check your details so that no one is impersonating that person. Now the person has provided his voter id, so he has been registered with the app and the electoral system. Also, all the new parties of any country and new candidates also must register in that app. If they are already registered with the election commission, then the details will automatically get saved in the system. Now on the election day when you will open the app, you should give your app the permission of the location services as the system want to know that from which area you are voting so that it will register your vote in that constituency. Now the next page of the app on the election day will lead you to the voting page where all the registered parties will be shown and then you can click on that party whom you want to vote. Then you will see the screen asking to re check your vote then if sure you can click on confirm and vote will be registered for that party in that constituency. Now that person has registered his vote. A simple and convenient process. Now after the election day the votes have been registered with the app and the govt. Now comes the best part, the election results can be declared on the same day as the vote count has already been done the software which just makes this thing so easy. This way the people and the tensed candidates and parties won’t have to wait for weeks or months for the election result. So, by this whole election process has been smoothly conducted on the T Day.
+
+TOOLS AND TECHNOLOGIES
+
+For developing this app, you need a good hardware and software as it will store the data of billions of people and for that you need a develop a software that has great security. We can use many open free sources like Appsheet , Appy pie and one of the best is Zoho creator. These tools are free and some of them also require no coding. we will use java as a programming language as it is highly secured and best for creating our app as we will be storing a lot of confidential data. We can use XCode as a text editor also. We can hire a professional graphic designer for the user interface as it is very important.
+
+Skills required
+
+You need to have a good experience in java so that the app doesn’t fail as it is the main thing of the software. Also, you are required to have a strong hardware system as it will store terabytes of data. The programming language is very feasible and is easy to understand and not that difficult to learn. For the hardware you need some investment
+which can be invested by yourself or maybe some sponsor. All these things if taken care of can lead us to a app which the world needs.
+
+OUTCOME
+
+The outcome of this app will be too good for every country in the world as the whole electoral system of any country where voting happens now don’t have to spend money on organizing polling booth and neither the people of the country have to wait for weeks for the results. The whole task of the elections has been conducted smoothly just on a app and now there can be hundred percent voting in an election as now everyone can vote in the country easily just by sitting anywhere. Hopefully this app becomes a thing which contributes nationally and globally.
